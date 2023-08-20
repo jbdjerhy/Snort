@@ -32,3 +32,4 @@ Timeline:
 4. Create and test a sample local rule for ICMP.
 5. Disable preconfigured rules except for local.rules.
 6. Explore Snorpy for rule management (optional).
+
